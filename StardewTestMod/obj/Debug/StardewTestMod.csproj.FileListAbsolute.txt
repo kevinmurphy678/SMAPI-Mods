@@ -1,0 +1,19 @@
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\StardewTestMod.dll
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\StardewTestMod.pdb
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\StardewModdingAPI.exe
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\Stardew Valley.exe
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\Microsoft.Xna.Framework.dll
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\xTile.dll
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\Lidgren.Network.dll
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\Steamworks.NET.dll
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\StardewModdingAPI.pdb
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\obj\Debug\StardewTestMod.csprojResolveAssemblyReference.cache
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\obj\Debug\StardewTestMod.dll
+c:\users\zoryn\documents\visual studio 2013\Projects\StardewTestMod\StardewTestMod\obj\Debug\StardewTestMod.pdb
+C:\Users\Zoryn\Documents\Visual Studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Zoryn\Documents\Visual Studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Zoryn\Documents\Visual Studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Zoryn\Documents\Visual Studio 2013\Projects\StardewTestMod\StardewTestMod\bin\Debug\Microsoft.Xna.Framework.Xact.xml
